@@ -1,0 +1,6 @@
+{
+  "name": "JAAS PLAY TV",
+  "description": "A dedicated Android TV media player and streaming hub with Media3, Room, and D-pad navigation support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
